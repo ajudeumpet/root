@@ -1,3 +1,18 @@
 [submodule "blog"]
 	path = blog
 	url = git@github.com:ajudeumpet/blog.git
+[submodule "blog.ajudeumpet.com.br"]
+	path = blog.ajudeumpet.com.br
+	url = git@github.com:ajudeumpet/blog.ajudeumpet.com.br.git
+[submodule "ajudeumpet.com.br"]
+	path = ajudeumpet.com.br
+	url = git@github.com:ajudeumpet/ajudeumpet.com.br.git
+[submodule "admin"]
+	path = admin
+	url = git@github.com:ajudeumpet/admin.git
+[submodule "design-system"]
+	path = design-system
+	url = git@github.com:ajudeumpet/design-system.git
+[submodule "wiki"]
+	path = wiki
+	url = git@github.com:ajudeumpet/wiki.git
