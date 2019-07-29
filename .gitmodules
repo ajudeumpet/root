@@ -16,3 +16,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = git@github.com:ajudeumpet/wiki.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:ajudeumpet/nginx.git
